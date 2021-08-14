@@ -1,0 +1,12 @@
+h2 {
+    color: rgb(145, 74, 145);
+}
+
+.coolSongs {
+    color:rgb(233, 173, 233);
+    background-color: rgb(33, 35, 121);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius: 15px;
+    text-decoration: none;
+}

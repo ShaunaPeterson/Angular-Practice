@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+
+*{
+    font-family: 'Anton', sans-serif;
+}
+
+
+h2 {
+    color: rgb(145, 74, 145);
+}
+
+.coolSongs {
+    color:rgb(245, 32, 245);
+}
