@@ -1,0 +1,8 @@
+<div *ngIf='music'>
+    <h2>{{music.name | uppercase}} Details</h2>
+    <div><span>Song id: </span>{{selectedSong.id}}</div>
+    <div>
+        <label for="song-name">Song Name: </label>
+        <input id="song-name" [(ngModel)]="coolMusic.name" placeholder="name">
+    </div>
+</div>

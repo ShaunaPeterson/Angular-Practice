@@ -5,8 +5,16 @@ h2 {
 .coolSongs {
     color:rgb(233, 173, 233);
     background-color: rgb(33, 35, 121);
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding:15px;
     border-radius: 15px;
     text-decoration: none;
+    list-style: none;
+  
+
+}
+
+.selected {
+    color:rgb(253, 0, 148);
+    background-color: rgb(21, 3, 42);
+    border-radius: 15px;
 }
